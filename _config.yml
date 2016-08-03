@@ -6,9 +6,10 @@ color:
   saturation: 0.19634226593188941
   rhythmicContrast: 0.9206758379004896
   brandColors:
-    - '#FFFFFF'
-    - '#666666'
-    - '#880045'
-    - '#EFC500'
-    - '#F634A0'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
 name: Design Bordello
+title: Designing for Agreeable Humans
