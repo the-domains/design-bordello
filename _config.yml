@@ -1,4 +1,3 @@
-layout_spectrum: 0.3895037970505655
 typography_spectrum: 0.6549271321855485
 color:
   brandStrength: 0.3595679469872266
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.3895037970505655
 name: Design Bordello
 title: Designing for Agreeable Humans
+description: Designing for Agreeable Humans
