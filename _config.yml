@@ -1,16 +1,16 @@
-typography_spectrum: 0.6549271321855485
+layout_spectrum: 0.25562783936038613
+typography_spectrum: 0.899626427097246
 color:
-  brandStrength: 0.3595679469872266
-  lightness: 0.012820534175261855
-  saturation: 0.19634226593188941
-  rhythmicContrast: 0.9206758379004896
+  brandStrength: 0.08237447729334235
+  lightness: 0.3234975538216531
+  saturation: 0.48116913880221546
+  rhythmicContrast: 0.3207805473357439
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-layout_spectrum: 0.3895037970505655
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
 author:
   name: Design Bordello
   email: mail@designbordello.com
